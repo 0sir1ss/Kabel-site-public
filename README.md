@@ -1,3 +1,7 @@
+Originally a site that I developed while working with others in an attempt to make a chat app.
+
+New repo as it was part of an organisation on GitHub which is private.
+
 # Kabel
 ### A space for collaboration
 Unleash, Embrace, and Elevate Your Vibrant Digital Social Sphere!
